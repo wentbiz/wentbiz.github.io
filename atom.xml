@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Simon&#39;s blog</title>
-  
+  <icon>https://www.gravatar.com/avatar/9cc7a17048b34cd3e13602c90bc85862</icon>
   <subtitle>不要说现在没心思把这坎迈过去，做了就知道，比如，起床，锻炼，看会书。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://simon20170901.github.io.git/"/>
+  <link href="http://went.biz/"/>
   <updated>2018-01-11T17:49:48.102Z</updated>
-  <id>http://simon20170901.github.io.git/</id>
+  <id>http://went.biz/</id>
   
   <author>
     <name>Simon Franklin</name>
-    
+    <email>lyuechu@163.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>It&#39;s my first time to write a blog</title>
-    <link href="http://simon20170901.github.io.git/2018/01/12/It-s-my-first-time-to-write-a-blog/"/>
-    <id>http://simon20170901.github.io.git/2018/01/12/It-s-my-first-time-to-write-a-blog/</id>
+    <link href="http://went.biz/2018/01/12/It-s-my-first-time-to-write-a-blog/"/>
+    <id>http://went.biz/2018/01/12/It-s-my-first-time-to-write-a-blog/</id>
     <published>2018-01-11T17:09:41.000Z</published>
     <updated>2018-01-11T17:49:48.102Z</updated>
     
@@ -31,17 +31,17 @@
     
     </summary>
     
-      <category term="on road" scheme="http://simon20170901.github.io.git/categories/on-road/"/>
+      <category term="on road" scheme="http://went.biz/categories/on-road/"/>
     
     
-      <category term="支出，欲望" scheme="http://simon20170901.github.io.git/tags/%E6%94%AF%E5%87%BA%EF%BC%8C%E6%AC%B2%E6%9C%9B/"/>
+      <category term="支出，欲望" scheme="http://went.biz/tags/%E6%94%AF%E5%87%BA%EF%BC%8C%E6%AC%B2%E6%9C%9B/"/>
     
   </entry>
   
   <entry>
     <title>data analysis</title>
-    <link href="http://simon20170901.github.io.git/2018/01/11/data-analysis/"/>
-    <id>http://simon20170901.github.io.git/2018/01/11/data-analysis/</id>
+    <link href="http://went.biz/2018/01/11/data-analysis/"/>
+    <id>http://went.biz/2018/01/11/data-analysis/</id>
     <published>2018-01-11T13:50:49.000Z</published>
     <updated>2018-01-11T18:12:17.671Z</updated>
     
@@ -53,10 +53,10 @@
     
     </summary>
     
-      <category term="action" scheme="http://simon20170901.github.io.git/categories/action/"/>
+      <category term="action" scheme="http://went.biz/categories/action/"/>
     
     
-      <category term="服务" scheme="http://simon20170901.github.io.git/tags/%E6%9C%8D%E5%8A%A1/"/>
+      <category term="服务" scheme="http://went.biz/tags/%E6%9C%8D%E5%8A%A1/"/>
     
   </entry>
   
