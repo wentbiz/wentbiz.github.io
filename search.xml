@@ -11,4 +11,34 @@
         <tag>支出，欲望</tag>
       </tags>
   </entry>
+  <entry>
+    <title><![CDATA[My Essays]]></title>
+    <url>%2FMy-Essays%2Findex.html</url>
+    <content type="text"><![CDATA[幸福是奋斗出来的，九层之台，起于累土，要实现这个目标，必须不驰于空想，不鹜于虚声。 ——2018]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[My Gallerys]]></title>
+    <url>%2FMy-Gallerys%2Findex.html</url>
+    <content type="text"><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA['about']]></title>
+    <url>%2Fabout%2Findex.html</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA['categories']]></title>
+    <url>%2Fcategories%2Findex.html</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA['pageName']]></title>
+    <url>%2FpageName%2Findex.html</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA['tags']]></title>
+    <url>%2Ftags%2Findex.html</url>
+    <content type="text"></content>
+  </entry>
 </search>
